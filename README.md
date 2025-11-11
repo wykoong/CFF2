@@ -1,8 +1,9 @@
-# Customer Feedback Portal (minimal)
+# Customer Feedback Portal (Specification Driven Development Approach)
 
 This project implements a small Flask-based Customer Feedback Portal.
 The idea of this Customer Feedback Portal is evaluate and experience the use of Specification Driven Development method for Vibe Coding.
 
+Refe here for my [LinkedIn post](https://www.linkedin.com/posts/wykoong_aicoding-sdd-specdrivendevelopment-activity-7392052619680120832-_CL_)
 
 
 ## Quickstart (development)
